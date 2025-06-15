@@ -24,6 +24,15 @@ amazon-clone/ │ ├── index.html        # Main structure of the webpage �
 
 ---
 
+## 🔗 Live Demo
+
+Check out the live version of this project here:
+
+👉 [View Live Demo](https://muzeeb-code.github.io/amazon-clone/)
+
+
+---
+
 ## 🚀 How to Use
 
 1. **Download** or **clone** the repository.
