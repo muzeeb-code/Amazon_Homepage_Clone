@@ -28,8 +28,7 @@ amazon-clone/ │ ├── index.html        # Main structure of the webpage �
 
 Check out the live version of this project here:
 
-👉 [View Live Demo]
-(https://muzeeb-code.github.io/Amazon_Homepage_Clone/)
+👉 [View Live Demo](https://muzeeb-code.github.io/Amazon_Homepage_Clone/)
 ---
 
 ## 🚀 How to Use
